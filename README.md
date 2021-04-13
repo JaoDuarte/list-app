@@ -13,7 +13,7 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 
 ## É sobre o que?
 
-É sobre utilização de **Hooks**
+É sobre utilização de **Hooks**, **useState** um dos mais populares, que no caso foi usado nessa aplicação.
 
 #### O que seria **Hook**?
 
@@ -23,3 +23,6 @@ React Hook é uma feature que permite que você use estado e outras features do 
 -  Executar funções quando o componente é montado e quando ele vai desmontar
 -  Adicionar a context api mais facilmente para refletir as mudanças em um componente funcional
 -  Criar suas próprias abstrações que brincam com os lifecycles do React e utilizar elas em componentes funcionais
+
+
+<img src="https://www.sp.senai.br/img/logo-senai1.png" alt="logo Senai" width="500"/>
